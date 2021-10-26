@@ -1,0 +1,391 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 10594,
+      "max": [
+        906.015869140625,
+        81.61328125,
+        116.47576904296875
+      ],
+      "min": [
+        629.765869140625,
+        -81.6123046875,
+        -108.89114379882813
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 127128,
+      "componentType": 5126,
+      "count": 10594,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 10594,
+      "max": [
+        2.876953125,
+        0.9983453750610352
+      ],
+      "min": [
+        -0.720703125,
+        0.0048828125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 84752,
+      "componentType": 5126,
+      "count": 10594,
+      "max": [
+        2.876953125,
+        0.9983453750610352
+      ],
+      "min": [
+        -0.720703125,
+        0.0048828125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 169504,
+      "componentType": 5126,
+      "count": 10594,
+      "max": [
+        0.998046875,
+        0.998046875
+      ],
+      "min": [
+        0.001953125,
+        0.001953125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 254256,
+      "componentType": 5126,
+      "count": 10594,
+      "max": [
+        2.876953125,
+        0.9983453750610352
+      ],
+      "min": [
+        -0.720703125,
+        0.0048828125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 44256,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 254256,
+      "componentType": 5126,
+      "count": 238,
+      "max": [
+        882.112548828125,
+        71.4345703125,
+        103.5933837890625
+      ],
+      "min": [
+        641.71923828125,
+        -71.43310546875,
+        43.16912841796875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 257112,
+      "componentType": 5126,
+      "count": 238,
+      "max": [
+        -0.06284423917531967,
+        0.9033859372138977,
+        -0.4098173975944519
+      ],
+      "min": [
+        -0.42503878474235535,
+        -0.9033859372138977,
+        -0.9051751494407654
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 339008,
+      "componentType": 5126,
+      "count": 238,
+      "max": [
+        0.89697265625,
+        5.44921875
+      ],
+      "min": [
+        0.236083984375,
+        -4.7421875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 340912,
+      "componentType": 5126,
+      "count": 238,
+      "max": [
+        8.0703125,
+        1.94921875
+      ],
+      "min": [
+        -7.0625,
+        -0.9697265625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 342816,
+      "componentType": 5126,
+      "count": 238,
+      "max": [
+        0.908203125,
+        0.9980316162109375
+      ],
+      "min": [
+        0.0019683837890625,
+        0.0205078125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 177024,
+      "componentType": 5125,
+      "count": 420,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Asmd27 (https://sketchfab.com/vasim.borisov2020)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/y-wing-cockpit-v1-1b829f2ed4504656a1e3da7c5ac55e82",
+      "title": "Y-Wing Cockpit V1"
+    },
+    "generator": "Sketchfab-11.90.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 178704,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 344720,
+      "byteOffset": 178704,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 259968,
+      "byteOffset": 523424,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 783392,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/T_YwingCockpit_CS_Mat_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "T_YwingCockpit_CS_Mat",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.3
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "WorldGridMaterial",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.215861,
+          0.215861,
+          0.215861,
+          0.5366591846241671
+        ],
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Y-Wing-Cockpit_T_YwingCockpit_CS_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4,
+            "TEXCOORD_3": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Y-Wing-Cockpit_WorldGridMaterial_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10,
+            "TEXCOORD_2": 11
+          },
+          "indices": 12,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.00432246411219217,
+        0.9999906420707703,
+        0.0,
+        0.0,
+        -0.9999906420707703,
+        0.00432246411219217,
+        0.0,
+        0.0,
+        -0.07584801316261292,
+        0.00017331007984465168,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "2689482fa10440b4a079839e6f8579f2.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "Y-Wing-Cockpit"
+    },
+    {
+      "mesh": 0,
+      "name": "Y-Wing-Cockpit_T_YwingCockpit_CS_Mat_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Y-Wing-Cockpit_WorldGridMaterial_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

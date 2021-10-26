@@ -1,0 +1,11 @@
+Model Information:
+* title:	Y-Wing Cockpit V1
+* source:	https://sketchfab.com/3d-models/y-wing-cockpit-v1-1b829f2ed4504656a1e3da7c5ac55e82
+* author:	Asmd27 (https://sketchfab.com/vasim.borisov2020)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Y-Wing Cockpit V1" (https://sketchfab.com/3d-models/y-wing-cockpit-v1-1b829f2ed4504656a1e3da7c5ac55e82) by Asmd27 (https://sketchfab.com/vasim.borisov2020) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
