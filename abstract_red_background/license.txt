@@ -1,0 +1,11 @@
+Model Information:
+* title:	Abstract red background
+* source:	https://sketchfab.com/3d-models/abstract-red-background-c8e13126e1d04d3e83de457233fdcf2a
+* author:	Adamante (https://sketchfab.com/Adamant6686)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Abstract red background" (https://sketchfab.com/3d-models/abstract-red-background-c8e13126e1d04d3e83de457233fdcf2a) by Adamante (https://sketchfab.com/Adamant6686) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
